@@ -1,6 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000600px.gif)](https://rishavchanda.io)
-# Hi, I'm Mohamed Ahmed 👋
 
+
+  
+# Hi, I'm Mohamed Ahmed 👋
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif" alt="Coding GIF" width="800"/>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,7 +16,12 @@ I'm a **Junior Software Engineer** specializing in **Flutter development** with 
 - 📫 How to reach me: **[mohamed.work78@gmail.com](mailto:mohamed.work78@gmail.com)**
 
 ---
+### 🚀 Fun Facts
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F70000&background=FFFFFF&center=true&width=700&lines=Flutter+Developer+🚀;Passionate+about+Mobile+Apps📱;Learning+New+Tech+Everyday+👨‍💻;Crafting+Clean+Code+&+UI+🎨" alt="Typing SVG" />
+  
+---  
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-96b58324a/)
