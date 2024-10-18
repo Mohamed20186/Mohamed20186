@@ -23,7 +23,7 @@ I'm a **Junior Software Engineer** specializing in **Flutter development** with 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+20109871978)
 
 ---
-<img align="right" alt="Coding" width="170" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
+<img align="right" alt="Coding" width="150" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
 
 ### 🛠️ Technologies & Tools
 
