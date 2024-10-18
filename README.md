@@ -19,7 +19,7 @@ I'm a **Junior Software Engineer** specializing in **Flutter development** with 
 ### 🚀 Fun Facts
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F70000&background=FFFFFF&center=true&width=700&lines=Flutter+Developer+🚀;Passionate+about+Mobile+Apps📱;Learning+New+Tech+Everyday+👨‍💻;Crafting+Clean+Code+&+UI+🎨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F70000&background=FFFFFF&center=true&width=700&lines=Flutter+Developer+🚀;Passionate+about+Mobile+Apps📱;Learning+New+Tech+Everyday+👨‍💻;Crafting+Clean+Code+&+UI+🎨;Portrait+Artist+🎨" alt="Typing SVG" />
   
 ---  
 ### 🔗 Connect with Me
