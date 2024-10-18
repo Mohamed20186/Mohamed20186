@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ahmed-96b58324a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ahmed-96b58324a/" height="30" width="40" /></a>
   <img align="right" alt="Coding" width="200" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
+   <img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*kbUTNQ5Pw-esY0-8yjb8JQ.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
