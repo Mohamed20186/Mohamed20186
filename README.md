@@ -1,63 +1,126 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000600px.gif)](https://rishavchanda.io)
-
-
-  
-# Hi, I'm Mohamed Ahmed 👋
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif" alt="Coding GIF" width="800"/>
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-### About Me
-I'm a **Junior Software Engineer** specializing in **Flutter development** with over **1 year of experience**. I have a passion for building mobile applications and working on exciting projects that solve real-world problems.
-
-- 🌱 Currently working on: **urbook**
-- 🔭 Past Projects: Weather App, News App, Chat App, Todo App
-- 🛠️ Skills: Flutter, Cubit, Provider, Dio, Firebase, Firestore, MVVM, Localization, `http`, `dio`
-- 💬 Ask me about: **Flutter, Software Development, Firebase Integration**
-- 📫 How to reach me: **[mohamed.work78@gmail.com](mailto:mohamed.work78@gmail.com)**
-
----
-### 🚀 Fun Facts
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0b3f,50:8a2b3f,100:ff6a00&height=220&section=header&text=Mohamed%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20%E2%86%92%20Backend%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18&descColor=f4d9c6" alt="header banner"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F70000&background=FFFFFF&center=true&width=700&lines=Flutter+Developer+🚀;Passionate+about+Mobile+Apps📱;Learning+New+Tech+Everyday+👨‍💻;Crafting+Clean+Code+&+UI+🎨;Portrait+Artist+🎨" alt="Typing SVG" />
-  
----  
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-96b58324a/)
-[![Resume](https://img.shields.io/badge/Resume-CV-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Crr48GrTJ7qh7mFUpouEp_jTKsvLSbqe/view?usp=sharing)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Rahim22/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+20109871978)
-
----
-<img align="right" alt="Coding" width="150" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
-
-### 🛠️ Technologies & Tools
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-FFCA28?style=for-the-badge&logo=provider&logoColor=white)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=600&color=FF6A00&center=true&vCenter=true&width=750&lines=Junior+Software+Engineer+%F0%9F%93%B1;1%2B+Year+Building+with+Flutter+%26+Dart;Now+Rewiring+My+Brain+for+Node.js+%E2%9A%99%EF%B8%8F;Turning+Messy+Excel+Sheets+Into+Real+Systems+%F0%9F%93%8A;Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG"/>
+</p>
 
 ---
 
-### 📂 Projects
+### 👋 About Me
 
-- [Islamic App](https://github.com/Mohamed20186/islami_app): An app displaying the Quran, Hadith, and Islamic radio.
-- [Weather App](https://github.com/Mohamed20186/weather_app): A weather app with MVVM architecture.
-- [News App](https://github.com/Mohamed20186/newss_app): A news app using the Provider pattern.
-- [Chat App](https://github.com/Mohamed20186/chat_app): A real-time chat app with Firebase authentication.
-- [Todo App](https://github.com/Mohamed20186/todo_app): A task management app with Firebase Auth and Firestore.
+I started out doing data entry and warehouse operations work — the kind of job where you *feel* every inefficiency in a spreadsheet firsthand. That's actually how I got into software: I taught myself Python/openpyxl to automate the Excel chaos, then went further and learned **Flutter & Dart** to build real mobile applications.
 
----
+Right now I'm building a **warehouse & cold-chain inventory system** for a real cold-storage business — and that project is what pushed me past the frontend. Talking to a real backend, not just Firebase, is the next skill I need — so I'm currently deep in **JavaScript → Node.js**, building it the same way I learn everything: by shipping a real project, not just watching tutorials.
 
-### 📈 GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed20186&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed20186&layout=compact)
+- 🔭 **Real-world project:** Full-stack warehouse management system for a cold-storage business (Flutter + Node.js/MongoDB in progress)
+- 🌱 **Currently learning:** Node.js, Express-style backend fundamentals, MongoDB/Mongoose
+- 🛠️ **Also comfortable with:** Python (openpyxl automation), SQL, Excel-based data systems
+- 💬 **Ask me about:** Flutter, Firebase, backend fundamentals, or how to automate your way out of a messy spreadsheet
+- 📫 **Reach me:** [mohamed.work78@gmail.com](mailto:mohamed.work78@gmail.com)
 
 ---
 
-### 🖥️ Visitor Count
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed20186&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed20186" /> </p>
+### 🧭 The Journey So Far
+
+```mermaid
+graph LR
+    A[Data Entry & Warehouse Ops] --> B[Learned Python + openpyxl<br/>Automated Excel Systems]
+    B --> C[Learned Flutter & Dart]
+    C --> D[Shipped Mobile Apps<br/>Weather - News - Chat - Todo]
+    D --> E[Real Project: Cold-Chain<br/>Warehouse Management System]
+    E --> F[Needed a Real Backend]
+    F --> G[Learning JavaScript to Node.js]
+    G --> H[Goal: Full-Stack Engineer]
+    style A fill:#2b0b3f,stroke:#ff6a00,color:#fff
+    style H fill:#ff6a00,stroke:#2b0b3f,color:#fff
+```
+
+---
+
+### 🧰 Tech Stack
+
+**Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Provider-5C2D91?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider"/>
+  <img src="https://img.shields.io/badge/Cubit%2FBloc-2C2C54?style=for-the-badge&logo=flutter&logoColor=white" alt="Cubit/Bloc"/>
+  <img src="https://img.shields.io/badge/Dio-0091EA?style=for-the-badge" alt="Dio"/>
+</p>
+
+**Backend (Actively Growing)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+**Data & Automation**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+</p>
+
+**Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+### 🚧 What I'm Building Right Now
+
+| Project | Status | What it is |
+|---|---|---|
+| **Cold-Chain Warehouse System** | 🔄 In progress | Real-world inventory & warehouse management system for a cold-storage business — replacing spreadsheet workflows with a proper Flutter + Node.js/MongoDB stack |
+| **ColdTrack** | 📚 Learning project | A practice cold-chain inventory app built specifically to drill JavaScript fundamentals before diving deeper into Node.js |
+
+---
+
+### 📱 Shipped Projects
+
+- 📖 [Islamic App](https://github.com/Mohamed20186/islami_app) — Quran, Hadith, and Islamic radio
+- ⛅ [Weather App](https://github.com/Mohamed20186/weather_app) — MVVM architecture
+- 📰 [News App](https://github.com/Mohamed20186/newss_app) — Provider state management
+- 💬 [Chat App](https://github.com/Mohamed20186/chat_app) — Real-time chat with Firebase Auth
+- ✅ [Todo App](https://github.com/Mohamed20186/todo_app) — Firebase Auth + Firestore
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed20186&show_icons=true&hide_border=true&title_color=FF6A00&icon_color=FF6A00&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed20186&layout=compact&hide_border=true&title_color=FF6A00&text_color=c9d1d9&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamed20186&hide_border=true&background=0D1117&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed20186&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:mohamed.work78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-ahmed-96b58324a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1Crr48GrTJ7qh7mFUpouEp_jTKsvLSbqe/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF6A00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://wa.me/+20109871978"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+<p align="center">📍 Egypt &nbsp;•&nbsp; <img src="https://komarev.com/ghpvc/?username=Mohamed20186&label=Profile%20Views&color=FF6A00&style=flat" alt="profile views"/></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:8a2b3f,100:2b0b3f&height=100&section=footer" alt="footer banner"/>
+</p>
