@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=600&color=FF6A00&center=true&vCenter=true&width=750&lines=Junior+Software+Engineer+%F0%9F%93%B1;1%2B+Year+Building+with+Flutter+%26+Dart;Now+Rewiring+My+Brain+for+Node.js+%E2%9A%99%EF%B8%8F;Turning+Messy+Excel+Sheets+Into+Real+Systems+%F0%9F%93%8A;Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=600&color=FF6A00&center=true&vCenter=true&width=750&lines=Junior+Software+Engineer+%F0%9F%93%B1;1%2B+Year+Building+with+Flutter+%26+Dart;Now+Rewiring+My+Brain+for+Node.js+%E2%9A%99%EF%B8%8F;Building+Full-Stack+Apps+with+Flutter+%2B+Node.js;Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG"/>
 </p>
 
 ---
 
 ### 👋 About Me
 
-I started out doing data entry and warehouse operations work — the kind of job where you *feel* every inefficiency in a spreadsheet firsthand. That's actually how I got into software: I taught myself Python/openpyxl to automate the Excel chaos, then went further and learned **Flutter & Dart** to build real mobile applications.
+I'm a Junior Software Engineer with over a year of experience building mobile apps with **Flutter & Dart** — from Clean Architecture patterns to state management (Bloc/Cubit, Provider) and REST API integration.
 
-Right now I'm building a **warehouse & cold-chain inventory system** for a real cold-storage business — and that project is what pushed me past the frontend. Talking to a real backend, not just Firebase, is the next skill I need — so I'm currently deep in **JavaScript → Node.js**, building it the same way I learn everything: by shipping a real project, not just watching tutorials.
+I'm now expanding into backend development, going deep into **JavaScript → Node.js** so I can build true full-stack applications instead of relying only on Firebase. I learn the same way I always have: by shipping a real project, not just watching tutorials — right now that means pairing a **Flutter** frontend with a **Node.js/MongoDB** backend.
 
-- 🔭 **Real-world project:** Full-stack warehouse management system for a cold-storage business (Flutter + Node.js/MongoDB in progress)
+- 🔭 **Real-world project:** Full-stack app combining a Flutter frontend with a Node.js/MongoDB backend (in progress)
 - 🌱 **Currently learning:** Node.js, Express-style backend fundamentals, MongoDB/Mongoose
-- 🛠️ **Also comfortable with:** Python (openpyxl automation), SQL, Excel-based data systems
-- 💬 **Ask me about:** Flutter, Firebase, backend fundamentals, or how to automate your way out of a messy spreadsheet
+- 🛠️ **Also comfortable with:** Firebase, SQL, Git & GitHub
+- 💬 **Ask me about:** Flutter, Firebase, or backend fundamentals with Node.js
 - 📫 **Reach me:** [mohamed.work78@gmail.com](mailto:mohamed.work78@gmail.com)
 
 ---
@@ -26,15 +26,13 @@ Right now I'm building a **warehouse & cold-chain inventory system** for a real 
 
 ```mermaid
 graph LR
-    A[Data Entry & Warehouse Ops] --> B[Learned Python + openpyxl<br/>Automated Excel Systems]
-    B --> C[Learned Flutter & Dart]
-    C --> D[Shipped Mobile Apps<br/>Weather - News - Chat - Todo]
-    D --> E[Real Project: Cold-Chain<br/>Warehouse Management System]
-    E --> F[Needed a Real Backend]
-    F --> G[Learning JavaScript to Node.js]
-    G --> H[Goal: Full-Stack Engineer]
+    A[Learned Flutter & Dart] --> B[Shipped Mobile Apps<br/>Weather - News - Chat - Todo]
+    B --> C[Wanted a Real Backend<br/>Not Just Firebase]
+    C --> D[Learning JavaScript to Node.js]
+    D --> E[Building Full-Stack Apps<br/>Flutter + Node.js/MongoDB]
+    E --> F[Goal: Full-Stack Engineer]
     style A fill:#2b0b3f,stroke:#ff6a00,color:#fff
-    style H fill:#ff6a00,stroke:#2b0b3f,color:#fff
+    style F fill:#ff6a00,stroke:#2b0b3f,color:#fff
 ```
 
 ---
@@ -58,13 +56,6 @@ graph LR
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-**Data & Automation**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-</p>
-
 **Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -78,8 +69,8 @@ graph LR
 
 | Project | Status | What it is |
 |---|---|---|
-| **Cold-Chain Warehouse System** | 🔄 In progress | Real-world inventory & warehouse management system for a cold-storage business — replacing spreadsheet workflows with a proper Flutter + Node.js/MongoDB stack |
-| **ColdTrack** | 📚 Learning project | A practice cold-chain inventory app built specifically to drill JavaScript fundamentals before diving deeper into Node.js |
+| **Full-Stack App** | 🔄 In progress | Real-world project pairing a Flutter frontend with a Node.js/MongoDB backend — moving from Firebase-only apps to a true full-stack architecture |
+| **JS Fundamentals Practice App** | 📚 Learning project | A small practice app built specifically to drill JavaScript fundamentals before diving deeper into Node.js |
 
 ---
 
