@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=600&color=FF6A00&center=true&vCenter=true&width=750&lines=Junior+Software+Engineer+%F0%9F%93%B1;1%2B+Year+Building+with+Flutter+%26+Dart;Now+Rewiring+My+Brain+for+Node.js+%E2%9A%99%EF%B8%8F;Building+Full-Stack+Apps+with+Flutter+%2B+Node.js;Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=FF6A00&center=true&vCenter=true&width=800&lines=Junior+Software+Engineer+%F0%9F%93%B1;1%2B+Year+Building+with+Flutter+%26+Dart;Now+Rewiring+My+Brain+for+Node.js+%E2%9A%99%EF%B8%8F;Built+a+Node.js+%2B+Express+REST+API+%F0%9F%9A%80;Building+Full-Stack+Apps+with+Flutter+%2B+Node.js%2FMongoDB;Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG"/>
 </p>
 
 ---
@@ -12,12 +12,15 @@
 
 I'm a Junior Software Engineer with over a year of experience building mobile apps with **Flutter & Dart** — from Clean Architecture patterns to state management (Bloc/Cubit, Provider) and REST API integration.
 
-I'm now expanding into backend development, going deep into **JavaScript → Node.js** so I can build true full-stack applications instead of relying only on Firebase. I learn the same way I always have: by shipping a real project, not just watching tutorials — right now that means pairing a **Flutter** frontend with a **Node.js/MongoDB** backend.
+I'm now expanding into backend development, going deep into **JavaScript → Node.js** so I can build true full-stack applications instead of relying only on Firebase. I learn the same way I always have: by shipping a real project, not just watching tutorials.
 
-- 🔭 **Real-world project:** Full-stack app combining a Flutter frontend with a Node.js/MongoDB backend (in progress)
-- 🌱 **Currently learning:** Node.js, Express-style backend fundamentals, MongoDB/Mongoose
+- 🔭 **Real-world project:** Warehouse Management System for a cold storage business — evolving it from an Excel-based workflow into a full Flutter + Node.js/Express/MongoDB stack
+- 📚 **Practice project:** ColdTrack, a cold-chain inventory system I built to lock in JavaScript fundamentals
+- ⚙️ **Recently built:** A CRUD REST API with Node.js + Express (GET/POST/PUT/DELETE)
+- 🌱 **Currently learning:** Express-style backend fundamentals, MongoDB/Mongoose
+- 🌍 **Also interested in:** offline-first mobile apps for Arabic-speaking markets
 - 🛠️ **Also comfortable with:** Firebase, SQL, Git & GitHub
-- 💬 **Ask me about:** Flutter, Firebase, or backend fundamentals with Node.js
+- 💬 **Ask me about:** Flutter, Firebase, or backend fundamentals with Node.js/Express
 - 📫 **Reach me:** [mohamed.work78@gmail.com](mailto:mohamed.work78@gmail.com)
 
 ---
@@ -26,13 +29,14 @@ I'm now expanding into backend development, going deep into **JavaScript → Nod
 
 ```mermaid
 graph LR
-    A[Learned Flutter & Dart] --> B[Shipped Mobile Apps<br/>Weather - News - Chat - Todo]
+    A[Learned Flutter & Dart] --> B[Shipped Mobile Apps<br/>Weather · News · Chat · Todo]
     B --> C[Wanted a Real Backend<br/>Not Just Firebase]
     C --> D[Learning JavaScript to Node.js]
-    D --> E[Building Full-Stack Apps<br/>Flutter + Node.js/MongoDB]
-    E --> F[Goal: Full-Stack Engineer]
+    D --> E[Built a CRUD REST API<br/>Node.js + Express]
+    E --> F[Building a Full-Stack App<br/>Flutter + Node.js/Express/MongoDB]
+    F --> G[Goal: Full-Stack Engineer]
     style A fill:#2b0b3f,stroke:#ff6a00,color:#fff
-    style F fill:#ff6a00,stroke:#2b0b3f,color:#fff
+    style G fill:#ff6a00,stroke:#2b0b3f,color:#fff
 ```
 
 ---
@@ -52,6 +56,7 @@ graph LR
 **Backend (Actively Growing)**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
@@ -69,8 +74,9 @@ graph LR
 
 | Project | Status | What it is |
 |---|---|---|
-| **Full-Stack App** | 🔄 In progress | Real-world project pairing a Flutter frontend with a Node.js/MongoDB backend — moving from Firebase-only apps to a true full-stack architecture |
-| **JS Fundamentals Practice App** | 📚 Learning project | A small practice app built specifically to drill JavaScript fundamentals before diving deeper into Node.js |
+| **Warehouse Management System** | 🔄 In progress · Portfolio project | Real-world app for a cold storage business — moving it from an Excel-based workflow to a full Flutter + Node.js/Express/MongoDB stack |
+| **ColdTrack** | 📚 Practice project | A cold-chain warehouse inventory system built specifically to drill JavaScript fundamentals before diving into Node.js |
+| **CRUD REST API** | ✅ Built | A Node.js + Express API with full GET/POST/PUT/DELETE operations |
 
 ---
 
@@ -107,7 +113,7 @@ graph LR
   <a href="mailto:mohamed.work78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mohamed-ahmed-96b58324a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1Crr48GrTJ7qh7mFUpouEp_jTKsvLSbqe/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF6A00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
-  <a href="https://wa.me/+20109871978"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/20109871978"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <p align="center">📍 Egypt &nbsp;•&nbsp; <img src="https://komarev.com/ghpvc/?username=Mohamed20186&label=Profile%20Views&color=FF6A00&style=flat" alt="profile views"/></p>
