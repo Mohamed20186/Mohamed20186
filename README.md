@@ -28,8 +28,8 @@ I don't just watch tutorials — I learn by **building real things**, and I comm
 <td width="50%" valign="top">
 
 ### 🔭 Working on
-- **Warehouse Management System** for a real cold-storage business (Excel workflow → Flutter + Node.js + MongoDB)
 - **Saraha (صراحة)** — an app with my own Node.js + MongoDB backend *(planning & database design)*
+- Hands-on Node.js projects to practice Express, Socket.io and MongoDB
 
 ### 🌱 Learning
 - Node.js core modules (`events`, `fs`, ...)
@@ -41,7 +41,7 @@ I don't just watch tutorials — I learn by **building real things**, and I comm
 <td width="50%" valign="top">
 
 ### 💡 Fun facts
-- 🧊 I turn real warehouse & cold-chain problems into software
+- 🚀 Aiming to build and ship my own full-stack apps (Flutter + Node.js)
 - 🌍 Interested in offline-first apps for Arabic-speaking markets
 - 🗣️ Comfortable in **Arabic & English**
 - 🧠 Believe in understanding *why* the code works, not just copy-pasting it
@@ -117,7 +117,6 @@ graph LR
 
 | Project | Status | Stack | What it is |
 |---|---|---|---|
-| 🧊 **Warehouse Management System** | 🔄 In progress | Flutter · Node.js · Express · MongoDB | A real-world system for a cold-storage business — moving from an Excel workflow to a full-stack app (batch tracking, expiry alerts, FIFO logic) |
 | 💬 **Saraha (صراحة)** | 📝 Planning & DB design | Node.js · MongoDB | An honesty app with a backend I'm designing and building myself |
 | 📡 **Real-time Chat** | ✅ Built | Node.js · Socket.io | Real-time chat app, heavily commented to understand the architecture end-to-end |
 | 🔧 **CRUD REST API** | ✅ Built | Node.js · Express | Full GET / POST / PUT / DELETE API |
